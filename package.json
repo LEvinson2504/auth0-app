@@ -5,10 +5,15 @@
     "build": "next build",
     "start": "next start"
   },
-  "author": "",
+  "author": "Levinson D'souza",
   "license": "MIT",
   "dependencies": {
-    "@auth0/nextjs-auth0": "^0.8.0",
+    "@auth0/nextjs-auth0": "^1.5.0",
+    "@chakra-ui/icons": "^1.0.14",
+    "@chakra-ui/react": "^1.6.4",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "framer-motion": "^4",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
